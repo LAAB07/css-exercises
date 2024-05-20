@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd-number{
+            background-color: #ffc0cb;
+            font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second{
+        color: #0000ff;
+        font-size: 36px;
+}
+
+/* This selector applies for third and fourth element as both shares same font-size */
+.adjust-font{
+        font-size: 24px;
+}
+
+#fourth{
+        background-color: #90ee90;
+        font-weight: bold;
+}
